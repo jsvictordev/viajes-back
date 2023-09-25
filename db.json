@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "victor@gmail.com",
+      "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
+      "role": "admin",
+      "id": 1,
+      "name": "Victor Jose"
+    },
+    {
+      "email": "felipe@gmail.com",
+      "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
+      "role": "admin",
+      "id": 2,
+      "name": "Felipe"
+    }
+
+  ]
+}
